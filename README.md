@@ -11,7 +11,7 @@ A repository of my geographic information systems (GIS) projects, documenting my
 
 ## 📂 Featured Projects
 
-### 1. [UNC Chapel Hill Pedestrian Routing Model](./UNC_Transit_Routing/)
+### 1. [UNC Chapel Hill Pedestrian Routing Model](./UNC_Class_Route/)
 An applied spatial data project modeling pedestrian infrastructure and optimized transit routing across the University of North Carolina at Chapel Hill campus. 
 *   **Techniques:** Extracted OpenStreetMap (OSM) walkable pathway networks, defined specific academic building coordinates, and executed Shortest Path network analysis algorithms to visualize mathematically optimized student transit routes.
 *   **Output:** High-resolution optimized routing map utilizing luminosity-based grayscale cartography and scale-accurate vector sizing. 
