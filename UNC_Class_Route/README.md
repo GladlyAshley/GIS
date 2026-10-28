@@ -1,4 +1,4 @@
-# UNC Chapel Hill Micro-Mobility & Transit Routing Model
+# UNC Chapel Hill Pedestrian Routing Model
 
 An applied spatial data project modeling pedestrian infrastructure and optimized transit routing across the University of North Carolina at Chapel Hill campus. 
 
